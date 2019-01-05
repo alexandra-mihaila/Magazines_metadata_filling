@@ -23,7 +23,7 @@
             },
             "2": {},
             "3": {
-                "class": "text",
+                "class": "titlu",
                 "x": 216,
                 "y": 344,
                 "height": 58,
@@ -39,7 +39,7 @@
                 "text": "Traditii"
             },
             "4": {
-                "class": "text",
+                "class": "autor",
                 "x": 189,
                 "y": 204,
                 "height": 27,
@@ -71,7 +71,7 @@
                 "text": "Coordonator :"
             },
             "6": {
-                "class": "text",
+                "class": "editura",
                 "x": 187,
                 "y": 98,
                 "height": 29,
@@ -94,7 +94,7 @@
         "pageHeight": "776",
         "sections": {
             "7": {
-                "class": "text",
+                "class": "autor",
                 "x": 224,
                 "y": 654,
                 "height": 24,
@@ -126,7 +126,7 @@
                 "text": "\u2018Tehnoredactare:"
             },
             "9": {
-                "class": "text",
+                "class": "autor",
                 "x": 230,
                 "y": 578,
                 "height": 24,
@@ -142,7 +142,7 @@
                 "text": "Prof. Delia Bosinceanu"
             },
             "10": {
-                "class": "text",
+                "class": "autor",
                 "x": 239,
                 "y": 552,
                 "height": 24,
@@ -158,7 +158,7 @@
                 "text": "Prof. Ana Nechita"
             },
             "11": {
-                "class": "text",
+                "class": "autor",
                 "x": 236,
                 "y": 527,
                 "height": 26,
@@ -174,7 +174,7 @@
                 "text": "Prof. Angela Stanciu"
             },
             "12": {
-                "class": "text",
+                "class": "autor",
                 "x": 237,
                 "y": 501,
                 "height": 24,
@@ -190,7 +190,7 @@
                 "text": "Prof. Marcela Farama"
             },
             "13": {
-                "class": "text",
+                "class": "autor",
                 "x": 237,
                 "y": 476,
                 "height": 25,
@@ -206,7 +206,7 @@
                 "text": "Prof. Paraschiva Tuturman"
             },
             "14": {
-                "class": "text",
+                "class": "autor",
                 "x": 239,
                 "y": 424,
                 "height": 49,
@@ -223,7 +223,7 @@
             },
             "15": {},
             "16": {
-                "class": "text",
+                "class": "autor",
                 "x": 239,
                 "y": 322,
                 "height": 24,
@@ -239,7 +239,7 @@
                 "text": "Prof. Ana Nechita"
             },
             "17": {
-                "class": "text",
+                "class": "autor",
                 "x": 237,
                 "y": 296,
                 "height": 26,
@@ -256,7 +256,7 @@
             },
             "18": {},
             "19": {
-                "class": "text",
+                "class": "autor",
                 "x": 212,
                 "y": 169,
                 "height": 23,
@@ -363,7 +363,7 @@
             "27": {},
             "28": {},
             "29": {
-                "class": "text",
+                "class": "titlu",
                 "x": 64,
                 "y": 426,
                 "height": 50,
@@ -380,7 +380,7 @@
             },
             "30": {},
             "31": {
-                "class": "text",
+                "class": "titlu",
                 "x": 64,
                 "y": 401,
                 "height": 22,
@@ -396,7 +396,7 @@
                 "text": "Lumina Sfanta de la lerusalim..."
             },
             "32": {
-                "class": "text",
+                "class": "titlu",
                 "x": 64,
                 "y": 375,
                 "height": 24,
@@ -413,7 +413,7 @@
             },
             "33": {},
             "34": {
-                "class": "text",
+                "class": "titlu",
                 "x": 64,
                 "y": 325,
                 "height": 22,
@@ -429,7 +429,7 @@
                 "text": "Ziua mamei"
             },
             "35": {
-                "class": "text",
+                "class": "titlu",
                 "x": 65,
                 "y": 299,
                 "height": 25,
@@ -448,7 +448,7 @@
             "37": {},
             "38": {},
             "39": {
-                "class": "text",
+                "class": "titlu",
                 "x": 64,
                 "y": 223,
                 "height": 24,
@@ -465,7 +465,7 @@
             },
             "40": {},
             "41": {
-                "class": "text",
+                "class": "titlu",
                 "x": 64,
                 "y": 172,
                 "height": 25,
@@ -482,7 +482,7 @@
             },
             "42": {},
             "43": {
-                "class": "text",
+                "class": "titlu",
                 "x": 64,
                 "y": 122,
                 "height": 22,
@@ -498,7 +498,7 @@
                 "text": "Sfiintul Valentin, o sirbatoare tot mai des celebrat."
             },
             "44": {
-                "class": "text",
+                "class": "titlu",
                 "x": 269,
                 "y": 67,
                 "height": 26,
@@ -672,7 +672,7 @@
                 "text": "Din marfea Siptimanii Mari, dar mai ales in zilele de joi, vineri si simbati, in toate gospoditiile\nbucovinene se vopsese ouale rosii de Pasti. Obiceiul folosirii oualor colorate in practcile de\n\nrenovare a timpuluiprimavara, cind se serba, odinioard, Anul Nou, tine de mitul cosmogonic al\n\u2018ului primordial, pe care i zlsim si in unele legende bucovinene."
             },
             "54": {
-                "class": "text",
+                "class": "titlu",
                 "x": 86,
                 "y": 64,
                 "height": 171,
@@ -732,7 +732,7 @@
                 "text": "YS"
             },
             "62": {
-                "class": "text",
+                "class": "autor",
                 "x": 269,
                 "y": 391,
                 "height": 24,
